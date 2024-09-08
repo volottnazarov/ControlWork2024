@@ -25,7 +25,7 @@ _cat allAnimals_
 
 _mv allAnimals humanFriends_
 
-<img alt="скриншот" src="C:\Users\Dell\Documents\Разработчик Курс\Аттестации\Итоговая КР Июль2024\2024-07-06_00-22-21.png"/>
+<img alt="скриншот" src="./img/2024-07-06_00-22-21.png"/>
 
 
 ### Задание 2
@@ -49,17 +49,17 @@ _cd Загрузки_
 
 _sudo dpkg -i mysql-apt-config_0.8.32-1_all.deb_
 
-<img alt="скриншот" src="C:\Users\Dell\Documents\Разработчик Курс\Аттестации\Итоговая КР Июль2024\Установка MySQL.png"/>
+<img alt="скриншот" src="./img/Установка MySQL.png"/>
 
 _sudo apt update_
 
-<img alt="скриншот" src="C:\Users\Dell\Documents\Разработчик Курс\Аттестации\Итоговая КР Июль2024\Обновление MySQL.png"/>
+<img alt="скриншот" src="./img/Обновление MySQL.png"/>
 
 _sudo apt install mysql-server_
 
 _systemctl status mysql_
 
-<img alt="скриншот" src="C:\Users\Dell\Documents\Разработчик Курс\Аттестации\Итоговая КР Июль2024\Статус MySQL-server.png"/>
+<img alt="скриншот" src="./img/Статус MySQL-server.png"/>
 
 
 
